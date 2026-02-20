@@ -9,6 +9,7 @@ public class PlayerControllerExam03 : MonoBehaviour
 
     public bool enableAutoFireMode;
     public float autoFireInterval = 0.1f;
+    public float autoFireTime = 0f;
 
     private float horizontalInput;
     private InputAction moveAction;
@@ -18,11 +19,13 @@ public class PlayerControllerExam03 : MonoBehaviour
     {
         moveAction = InputSystem.actions.FindAction("Move");
         shootAction = InputSystem.actions.FindAction("Shoot");
+        
     }
 
     // Update is called once per frame
     void Update()
     {
+        
         horizontalInput = moveAction.ReadValue<Vector2>().x;
         transform.Translate(horizontalInput * speed * Time.deltaTime * Vector3.right);
 
@@ -39,5 +42,11 @@ public class PlayerControllerExam03 : MonoBehaviour
         {
             Instantiate(projectilePrefab, transform.position, transform.rotation);
         }
+        else if (enableAutoFireMode == true && Time.time >= autoFireTime)
+        {
+            Instantiate(projectilePrefab, transform.position, transform.rotation);
+            autoFireTime = Time.time + autoFireInterval;
+        }
     }
+    
 }
