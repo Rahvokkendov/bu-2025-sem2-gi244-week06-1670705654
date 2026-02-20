@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|d:\\1670705654 naphat program\\bu-2025-sem2-gi244-week06-1670705654\\assets\\scripts\\exam\\cameracontrolexam06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\cameracontrolexam06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|d:\\1670705654 naphat program\\bu-2025-sem2-gi244-week06-1670705654\\assets\\scripts\\exam\\playercontrollerexam05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|d:\\1670705654 naphat program\\bu-2025-sem2-gi244-week06-1670705654\\assets\\scripts\\exam\\wavespawnmanagerexam04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\wavespawnmanagerexam04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|d:\\1670705654 naphat program\\bu-2025-sem2-gi244-week06-1670705654\\assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|d:\\1670705654 naphat program\\bu-2025-sem2-gi244-week06-1670705654\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|d:\\1670705654 naphat program\\bu-2025-sem2-gi244-week06-1670705654\\assets\\scripts\\wavespawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavespawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|d:\\1670705654 naphat program\\bu-2025-sem2-gi244-week06-1670705654\\assets\\scripts\\wavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|d:\\1670705654 naphat program\\bu-2025-sem2-gi244-week06-1670705654\\assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A1CAD-868F-1E8E-1974-DBD4DD40F9BC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraControlExam06.cs",
+              "DocumentMoniker": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\Exam\\CameraControlExam06.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\CameraControlExam06.cs",
+              "ToolTip": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\Exam\\CameraControlExam06.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exam\\CameraControlExam06.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:09:02.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerControllerExam05.cs",
+              "DocumentMoniker": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
+              "ToolTip": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:00:36.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WaveSpawnManagerExam04.cs",
+              "DocumentMoniker": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
+              "ToolTip": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:55:29.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerControllerExam03.cs",
+              "DocumentMoniker": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
+              "ToolTip": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:25:15.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WaveSpawnManager.cs",
+              "DocumentMoniker": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\WaveSpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveSpawnManager.cs",
+              "ToolTip": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\WaveSpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveSpawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:23:30.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:07:47.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerControllerExam02.cs",
+              "DocumentMoniker": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "ToolTip": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:05:39.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WaveController.cs",
+              "DocumentMoniker": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\WaveController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveController.cs",
+              "ToolTip": "D:\\1670705654 Naphat Program\\bu-2025-sem2-gi244-week06-1670705654\\Assets\\Scripts\\WaveController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T07:54:50.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
